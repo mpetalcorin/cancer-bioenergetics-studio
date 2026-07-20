@@ -5,7 +5,9 @@ A responsive research dashboard for exploring **cancer bioenergetics**, **metabo
 The application provides an interactive interface for examining how tumour cells may distribute metabolic activity across glycolysis, mitochondrial oxidative phosphorylation, glutamine metabolism, and fatty-acid oxidation. It also includes a glucose–ketone index calculator and a research-oriented intervention simulator.
 
 > **Important:** This application is an educational and computational research prototype. It is not a medical device and must not be used to diagnose, prevent, monitor, or treat cancer.
+> 
 <img width="1491" height="1055" alt="Cancer bioenergetics" src="https://github.com/user-attachments/assets/ad7ff51e-a097-4f3c-a4c3-5f4a1af6ec6b" />
+
 ---
 
 ## Overview
@@ -325,7 +327,7 @@ A formal software DOI can be added by archiving a tagged GitHub release through 
 
 ## Author
 
-**Mark Ihrwell R. Petalcorin, PhD**
+**Mark I. R. Petalcorin**
 
 Molecular Biology, Biochemistry, Cancer Research, Bioenergetics, Machine Learning, and Artificial Intelligence
 
